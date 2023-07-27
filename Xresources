@@ -1,25 +1,23 @@
-i3-wm.gaps.inner.size: 17
-
 !regolith.look.path: /usr/share/regolith-look/ayu-dark
 
-
-regolith.wallpaper.file: /home/mateusz/Downloads/yannis-zaugg-NjhfsfsbJhw-unsplash.jpg
-
+regolith.wallpaper.file: /home/mateusz/Downloads/wallpaper.jpg
 regolith.wallpaper.options: zoom
+
+Xcursor.theme: Yaru
 
 gnome.terminal.background-transparency-percent:	15
 gnome.terminal.use-transparent-background:	true
 
-gtk.font_name: Ubuntu 12
+gnome.terminal.font: JetBrainsMono Nerd Font 12
 
-Xcursor.theme: Yaru
+gtk.font_name: JetBrainsMono Nerd Font
 
-i3-wm.font: Ubuntu
-i3xrocks.value.font: Ubuntu
+i3-wm.font: JetBrainsMono Nerd Font
+i3xrocks.value.font: JetBrainsMono Nerd Font
 
 i3-wm.bar.position: top
-
 i3-wm.window.border.size: 0
+i3-wm.gaps.inner.size: 17
 
 gtk.icon_theme_name: Papirus-Dark
 regolith.look.path: /usr/share/regolith-look/default
