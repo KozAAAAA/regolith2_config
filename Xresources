@@ -8,7 +8,7 @@ Xcursor.theme: Yaru
 gnome.terminal.background-transparency-percent:	15
 gnome.terminal.use-transparent-background:	true
 
-gnome.terminal.font: JetBrainsMono Nerd Font 12
+gnome.terminal.font: JetBrainsMono Nerd Font 11
 
 gtk.font_name: JetBrainsMono Nerd Font
 
