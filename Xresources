@@ -10,7 +10,7 @@ gnome.terminal.use-transparent-background:	true
 
 gnome.terminal.font: JetBrainsMono Nerd Font 11
 
-!gtk.font_name: JetBrainsMono Nerd Font
+gtk.font_name: JetBrainsMono Nerd Font
 
 i3-wm.font: JetBrainsMono Nerd Font
 i3xrocks.value.font: JetBrainsMono Nerd Font
