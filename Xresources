@@ -25,7 +25,7 @@ i3-wm.bar.workspace.inactive.background.color: #141B1E
 i3-wm.bar.background.color: #141B1E
 i3-wm.bar.separator.color: #141B1E
 
-regolith.wallpaper.file:a
+regolith.wallpaper.file:
 regolith.wallpaper.color.primary:
 
 
