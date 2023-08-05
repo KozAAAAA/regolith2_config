@@ -8,7 +8,7 @@ Xcursor.theme: Yaru
 gnome.terminal.background-transparency-percent:	15
 gnome.terminal.use-transparent-background:	true
 
-gnome.terminal.font: Consolas NF 12
+gnome.terminal.font: Consolas NF 11.3
 
 !gtk.font_name: Ubuntu
 !i3-wm.font: Ubuntu
