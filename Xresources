@@ -18,8 +18,9 @@ i3-wm.window.border.size: 0
 i3-wm.gaps.inner.size: 8
 
 i3-wm.bar.workspace.focused.border.color: #141B1E
-i3-wm.bar.workspace.focused.background.color: #141B1E
-i3-wm.bar.workspace.inactive.background.color: #2d3d43
+
+i3-wm.bar.workspace.focused.background.color: #2d3d43
+i3-wm.bar.workspace.inactive.background.color: #141B1E
 
 i3-wm.bar.background.color: #141B1E
 i3-wm.bar.separator.color: #141B1E
