@@ -8,7 +8,6 @@ Xcursor.theme: Yaru
 gnome.terminal.background-transparency-percent:	15
 gnome.terminal.use-transparent-background:	true
 
-
 gnome.terminal.update: false
 gnome.terminal.font: Consolas NF 11.3
 
@@ -20,7 +19,10 @@ i3-wm.bar.position: top
 i3-wm.window.border.size: 0
 i3-wm.gaps.inner.size: 10
 
+
+regolith.wallpaper.file:
+regolith.wallpaper.color.primary:
+
+
 gtk.icon_theme_name: Papirus-Dark
-regolith.look.path: /usr/share/regolith-look/default
-
-
+regolith.look.path: /usr/share/regolith-look/i3-default/
